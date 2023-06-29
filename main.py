@@ -2,7 +2,7 @@ import telebot
 import csv
 from saludos import saludar_nuevos_miembros
 
-TOKEN = '6370610370:AAGxv0O6c1p0Jf3jhmgYALsZESx_66nEWxc'
+TOKEN = 'tokenkey'
 
 bot = telebot.TeleBot(TOKEN)
 
